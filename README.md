@@ -1,2 +1,1 @@
 # PYTHON-LAB-RECORD
-python
